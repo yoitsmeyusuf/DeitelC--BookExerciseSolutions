@@ -43,5 +43,6 @@ int main() {
         printVerse(day);
         cout << endl;
     }
+    
     return 0;
 }
